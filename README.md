@@ -1,4 +1,4 @@
-- Hi, I’m @Oliver
+- Hi, I’m Oliver
 - I’m interested in mathemathical programming
 - I’m currently studying matemathical engineering
 - How to reach me: jmramirez1204@gmail.com
