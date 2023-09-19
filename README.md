@@ -1,4 +1,4 @@
-- Hi, I’m Oliver.
-- I’m interested in matemathical programming.
-- I’m currently studying matemathical engineering.
+- Hi, I’m José Manuel Ramírez-Gómez.
+- I’m interested in scientific computation.
+- I’m currently studying matemathical engineering at EAFIT university and Mathematics at Universidad de Antioquia.
 - How to reach me: jmramirez1204@gmail.com
